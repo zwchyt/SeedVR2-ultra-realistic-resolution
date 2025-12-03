@@ -47,16 +47,15 @@ A one-click extreme image upscale workflow using `SeedVR2 + smart tiling` (suppo
 
 ### 示例效果 | Samples
 
-工作流演示
-
-![图像极限放大 完整工作流](samples/SEEDVR2_gzl.png)
+|工作流演示|
+|---------|
+|![图像极限放大 完整工作流](samples/SEEDVR2_gzl.png)|
 
 
 | 原图                  | 极限放大后（7 倍放大示例）                  |
 |-----------------------|---------------------------------------|
-| ![原图示例](samples/SEEDVR2原图.png) | ![7倍放大结果](samples/X-image.png) |
+| ![原图示例](samples/SEEDVR2_2.png) | ![7倍放大结果](samples/SEEDVR2-1.png) |
 
-> 可轻松将 512×512 小图放大到 3584×3584 以上，细节清晰无糊  
+> 可轻松将小图放大到 `2K` 以上，细节清晰无糊  
 > 支持风景、人像、插画等所有类型图像
 
-更多放大案例持续更新 → [查看 samples 文件夹](samples/)
